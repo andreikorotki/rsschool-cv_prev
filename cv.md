@@ -55,6 +55,7 @@ _**May 2017 - Mar 2019**_ | velcom(now A1 Belarus) |Senior Software Developer | 
 _**Mar 2014 - May 2017**_ | velcom(now A1 Belarus) | Software Engineer | Main skills and responsibilities: pl/sql programming, billing integration\
 _**Feb 2012 - Mar 2014**_ | velcom(now A1 Belarus) | Engineer of Network Online Control (2nd line of support) | Core and Radio network monitoring, second-line subscribers support, reporting, 24/7 shifts
 
+
 ---
 ### Past Projects Details
 * **Whole BSS Stack digital transformation and migration to ZSmart:** a huge project affected all TMF-domains, more than 100 systems should be migrated.\
