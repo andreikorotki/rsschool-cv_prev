@@ -50,9 +50,9 @@
 ### Work Experience
 _**Jul 2019 - Now**_ | FLLC SEAVUS | Senior Software Engineer | Billing Support System (ZSmart) integration project\
 _**Mar 2019 - Jul 2019**_ | IDT Belarus | Senior Database Developer | Carrier billing development, fraud management system improvements\
-_**May 2017 - Mar 2019**_ | velcom(now A1 Belarus) |Senior Software Developer | I was worked for E-commerce Group, SAP HYBRIS integration Project as lead developer and solution architect in fact. The main tasks were to achieve deep system integration with legacy systems and implement modern business processes using eCommerce engine. My personal responsibilities Product catalogue and development, TMForum openAPI implementation and other integration points development\
+_**May 2017 - Mar 2019**_ | velcom(now A1 Belarus) |Senior Software Developer | I was worked for E-commerce Group, SAP HYBRIS integration Project as lead developer and solution architect in fact. The main tasks were to achieve deep system integration with legacy systems and implement modern business processes using eCommerce engine. My personal responsibilities Product catalogue and development, TMForum openAPI implementation and other integration points development.\
 _**Mar 2014 - May 2017**_ | velcom(now A1 Belarus) | Software Engineer | Main skills and responsibilities: pl/sql programming, billing integration\
-_**Feb 2012 - Mar 2014**_ | velcom(now A1 Belarus) | Engineer of Network Online Control (2nd line of support) | Core and Radio network monitoring, second-line subscribers support, reporting, 24/7 shifts
+_**Feb 2012 - Mar 2014**_ | velcom(now A1 Belarus) | Engineer of Network Online Control (2nd line of support) | Core and Radio network monitoring, second-line subscribers support, reporting, 24/7 shifts.
 
 ---
 
