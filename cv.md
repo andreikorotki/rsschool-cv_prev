@@ -24,7 +24,6 @@
 **///////////////////////..............................** Python, Django, PostgreSQL, OpenShift\
 **////////.....................................................** Java SE, Spring Boot
 
-
 ---
 
 ### Certifications
@@ -55,8 +54,8 @@ _**May 2017 - Mar 2019**_ | velcom(now A1 Belarus) |Senior Software Developer | 
 _**Mar 2014 - May 2017**_ | velcom(now A1 Belarus) | Software Engineer | Main skills and responsibilities: pl/sql programming, billing integration\
 _**Feb 2012 - Mar 2014**_ | velcom(now A1 Belarus) | Engineer of Network Online Control (2nd line of support) | Core and Radio network monitoring, second-line subscribers support, reporting, 24/7 shifts
 
-
 ---
+
 ### Past Projects Details
 * **Whole BSS Stack digital transformation and migration to ZSmart:** a huge project affected all TMF-domains, more than 100 systems should be migrated.\
 _Challenges:_ Transform legacy Business Processes to Tele Management Best Practices, Unified Product Catalog design, Convergent Charging and Billing implementation in online-mode, Omni- Channel ordering approach.\
@@ -69,7 +68,6 @@ _Responsibility:_ technical solution lead, enterprise product catalogue developm
 * **Self-Care App, API’s development(MyA1)** Target: develop OmniChannel API layer based on TMForum OpenAPI's, as unified standard for several OpCos (Telecom Austria group). Microservices architecture.\
 _Responsibility:_ data model development, DB API’s development, business logic implementation and enrich TMF API’s. Billing Migration(BSCS).\
 _Challenges:_ change old CBOSS solution to Ericsson BSCS without effort to subscriber and partners, data migration, preparing SQL-scripts, data mapping.
-
 
 ---
 ### Soft Skills
